@@ -46,14 +46,14 @@ index b3dea8d65c3d1e27e59be142ec9e2ebb4164aed0..901522f24b8bc58861e46eda400dbab9
              this.move(EnumMoveType.SELF, this.getMot());
 +
 +            // Paper start - Configurable EntityFallingBlock height nerf
-+            if (this.world.paperConfig.fallingBlockHeightNerf != 0 && this.locY() > this.world.paperConfig.fallingBlockHeightNerf) {
-+                if (this.dropItem && this.world.getGameRules().getBoolean(GameRules.DO_ENTITY_DROPS)) {
-+                    this.a(block);
-+                }
++            //if (this.world.paperConfig.fallingBlockHeightNerf != 0 && this.locY() > this.world.paperConfig.fallingBlockHeightNerf) {
++                //if (this.dropItem && this.world.getGameRules().getBoolean(GameRules.DO_ENTITY_DROPS)) {
++                    //this.a(block);
++                //}
 +
-+                this.die();
-+                return;
-+            }
++                //this.die();
++                //return;
++            //}
 +            // Paper end
              if (!this.world.isClientSide) {
                  blockposition = this.getChunkCoordinates();
