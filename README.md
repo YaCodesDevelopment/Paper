@@ -1,7 +1,7 @@
 PaperMC fork with Sand Duping allowed!
 ===========
 
-**Download leatest prebuilt jar from here**
+**Download leatest prebuilt jar from <a href="http://cloud.yacode.cf/cdn/PaperMC/latest.jar">here</a>**
 
 **OR alternatively Compile Jar From Source the folowing way**
 
