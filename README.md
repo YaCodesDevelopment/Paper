@@ -3,7 +3,7 @@ PaperMC fork with Sand Duping allowed!
 
 Download
 ------
-Leatest prebuilt jar from <a href="http://cloud.yacode.cf/cdn/PaperMC/latest.jar">here</a>
+Leatest prebuilt jar from <a href="https://cloud.yacode.cf/cdn/PaperMC/latest.jar">here</a>
 
 
 
